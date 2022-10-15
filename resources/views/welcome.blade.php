@@ -25,13 +25,13 @@
             <div class="collapse" id="navbarCollapse">
                 <ul class="navbar-nav ">
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#home">Home</a>
+                        <a class="nav-link page-scroll" href="#home">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About Us</a>
+                        <a class="nav-link page-scroll" href="#about">Qui sommes-nous?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#screenshots">Our Gallery</a>
+                        <a class="nav-link page-scroll" href="#screenshots">Notre galerie de photos</a>
                     </li>
 
                     <li class="nav-item">
@@ -41,7 +41,7 @@
 
 
                     <li class="nav-item">
-                        <a class="nav-link page-scroll button-download" href="#contact">Get Quote</a>
+                        <a class="nav-link page-scroll button-download" href="#contact">Obtenir un devis</a>
                     </li>
 
                 </ul>
@@ -57,7 +57,7 @@
             <div class="container postion-absolute">
                 <div class="innerhead">
                     <h2 class="head-title">Kinderdorf, le bien être des enfants, notre passion.</h2>
-                    <a class="nav-link page-scroll button-download" href="#contact">Get A Quote</a>
+                    <a class="nav-link page-scroll button-download" href="#contact">Obtenir un devis</a>
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
             <div class="container postion-absolute">
                 <div class="innerhead">
                     <h2 class="head-title">Kinderdorf, le bien être des enfants, notre passion.</h2>
-                    <a class="nav-link page-scroll button-download" href="#contact">Get A Quote</a>
+                    <a class="nav-link page-scroll button-download" href="#contact">Obtenir un devis</a>
                 </div>
             </div>
         </div>
@@ -84,9 +84,17 @@
                 <img src="images/about.png" class="phone2">
             </div>
             <div class="col-6">
-                <h2 class="title-main">About Us</h2>
-                <h3 class="title-main-sub">We are Kinderdorf and childhood is our passion.</h3>
-                <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque.</p>
+                <h2 class="title-main">Qui sommes-nous?</h2>
+                <h3 class="title-main-sub">Nous sommes Kinderdorf et l'enfance est notre passion.</h3>
+                <p class="para">
+                    Kinderdorf est un lieu pour l’accueil des enfants âgés de 03 mois à 5 ans. Il propose des activités
+                    d’éveil, pour stimuler leur curiosité, créativité, socialisation et motricité, dans un environnement
+                    familial. Depuis son ouverture il y a 3 ans, Kinderdorf offre un cadre de vie familiale unique, ou un
+                    groupe d’enfants ont la possibilité d’être accueillis pour toute la journée et ça toute l’année.
+                    Kinderdorf est une crèche privée à temps-plein réservés aux parents qui travaillent et qui ont
+                    un besoin d’accueil ou cherchent de places en garderie ou des places en crèche à temps
+                    complet pour leurs enfants.
+                </p>
 
             </div>
         </div>
@@ -96,8 +104,7 @@
     <div class="container">
         <div class="headiner-text">
 
-            <h2 class="heading">Ages
-                we meet kids where they are.</h2>
+            <h2 class="heading">Nous rencontrons les enfants là où ils sont.</h2>
         </div>
         <div class="row-inner">
 
@@ -109,11 +116,15 @@
 
                 </div>
             </div>
+
             <div class="col-3">
                 <div class="col-3-inner">
                     <img src="images/icon2.svg" class="inner-icon">
-                    <h3 class="f-heading">Quality Educators</h3>
-                    <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
+                    <h3 class="f-heading">Les éducateurs</h3>
+                    <p class="para">Kinderdorf est géré par des éducateurs préscolaires formés à l’INFS (Institut National de
+                        Formation Sociale) pour certains et à l’étranger pour d’autres. Des éducateurs préscolaires
+                        expérimentés dans le domaine des tout-petits et leur besoin d’accueil. L’épanouissement
+                        des enfants est au centre des activités proposées par cette équipe dynamique chaque jour.</p>
 
                 </div>
             </div>
@@ -121,7 +132,11 @@
                 <div class="col-3-inner">
                     <img src="images/icon3.svg" class="inner-icon">
                     <h3 class="f-heading">Play to Learn</h3>
-                    <p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
+                    <p class="para">La
+                        journée commence ensemble. Les enfants peuvent raconter leur matinée et arriver dans le groupe.
+                        Après le cercle matinal, les enfants peuvent choisir eux-mêmes où et à quoi ils veulent jouer. Ils
+                        peuvent se déplacer librement dans l&#39;espace de la crèche et suivre leurs intérêts. Si le temps le
+                        permet, ce temps est passé dans le jardin. Des projets ou des excursions y ont également lieu.</p>
 
                 </div>
             </div>
@@ -135,7 +150,7 @@
     <div class="container">
         <div class="headiner-text">
             <label class="sbheading">GALLERY</label>
-            <h2 class="heading">Take A Closer Look</h2>
+            <h2 class="heading">Regardez de plus près</h2>
 
         </div>
         <div class="row-inner">
@@ -161,7 +176,7 @@
     <div class="container">
         <div class="headiner-text mt25">
 
-            <h2 class="heading">Get A Quote</h2>
+            <h2 class="heading">Obtenir un devis</h2>
 
         </div>
         <div class="row-inner">
@@ -169,22 +184,22 @@
                 <div class="col-full mt-0">
                     <img src="images/c1.svg" class="fe-icon">
                     <div class="right-text-cont">
-                        <h3 class="f-heading">Get a Quote</h3>
-                        <p class="para">Through True Rich Attended does no end it his mother since real had half every.</p>
+                        <h3 class="f-heading">Obtenir un devis</h3>
+                        <p class="para">Remplisez le formulaire présent avec les informations demandées.</p>
                     </div>
                 </div>
                 <div class="col-full">
                     <img src="images/c2.svg" class="fe-icon">
                     <div class="right-text-cont">
-                        <h3 class="f-heading">Book an Appointment</h3>
-                        <p class="para">Through True Rich Attended does no end it his mother since real had half every.</p>
+                        <h3 class="f-heading">Fixer un rendez-vous</h3>
+                        <p class="para">Vous recevrez un mail avec un devis et un rendez-vous pour une visite de nos locaux.</p>
                     </div>
                 </div>
                 <div class="col-full">
                     <img src="images/c3.svg" class="fe-icon">
                     <div class="right-text-cont">
-                        <h3 class="f-heading">Get your Service Done</h3>
-                        <p class="para">Through True Rich Attended does no end it his mother since real had half every.</p>
+                        <h3 class="f-heading">Inscrivez votre enfant !</h3>
+                        <p class="para">Une fois convaincu, vous pourrez inscrire votre enfant.</p>
                     </div>
                 </div>
             </div>
@@ -193,21 +208,21 @@
 
                     <div class="full-input">
 
-                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Enter your Name" required="">
+                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Entrez votre nom" required="">
                     </div>
                     <div class="full-input">
 
-                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Enter your Email" required="">
+                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Entrez votre Email" required="">
                     </div>
                     <div class="full-input">
 
-                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Enter your Phone" required="">
+                        <input type="text" class="form-cont" id="subject" name="subject" placeholder="Entrez votre numéro de telephone" required="">
                     </div>
                     <div class="full-input">
-                        <textarea class="form-conttext" id="message" name="message" placeholder="Write Message" rows="5" required=""></textarea>
+                        <textarea class="form-conttext" id="message" name="message" placeholder="Entrez l'âge de votre enfant et d'autre informations si nécessaire" rows="5" required=""></textarea>
                     </div>
                     <div class="submit-button">
-                        <button class="btn btn-common" id="submit" type="submit">Get your quote</button>
+                        <button class="btn btn-common" id="submit" type="submit">Obtenir un devis</button>
 
                     </div>
                 </form>
@@ -230,32 +245,32 @@
             </div>
 
             <div class="col-1">
-                <h3 class="f-title">Company</h3>
+                <h3 class="f-title">L'entreprise</h3>
                 <ul class="footer-nav2">
 
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Our Gallery</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#screenshots">Our Gallery</a></li>
+                  <!--  <li><a href="#">Services</a></li> -->
+                  <!--  <li><a href="#">Blog</a></li> -->
 
                 </ul>
 
             </div>
             <div class="col-1">
-                <h3 class="f-title">Connect</h3>
+                <h3 class="f-title">Nous contacter</h3>
                 <ul class="footer-nav2">
                     <li><a href="#">hi@Kinderdorf.com</a></li>
                     <li><a href="#">+(123) 456-7890</a></li>
 
                 </ul>
             </div>
-            <div class="col-3">
+       <!--     <div class="col-3">
                 <h3 class="f-title">Join Newsletter</h3>
                 <form>
                     <input type="text" class="newsletter" placeholder="Type email here">
                     <button type="submit" class="submit" >Subscribe</button>
                 </form>
-            </div>
+            </div> -->
             <div class="col-6 mt-5">© All rights reserved – Kinderdorf</div>
             <div class="col-6 mt-5 text-right"><a href="#">Privacy Policy</a><a href="#" class="mr-46">Terms & Conditions</a></div>
         </div>
